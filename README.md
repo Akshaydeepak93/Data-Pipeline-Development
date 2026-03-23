@@ -31,7 +31,9 @@ To make the transformed data easier to interpret, it is converted back into a Pa
 Finally, the processed data is saved into a new CSV file named prepared_data.csv using the to_csv() function. This allows the cleaned dataset to be reused for further analysis or machine learning tasks. A success message is printed at the end to indicate that the data pipeline has been executed successfully.
 
 output of the task :
-<img width="866" height="482" alt="Screenshot 2026-03-23 161307" src="https://github.com/user-attachments/assets/053dd4fe-cf14-413e-b62b-c31fed05f545" />
 
 
 Overall, this project highlights the importance of data preprocessing and demonstrates how pipelines can simplify and automate data preparation steps in a structured and reusable way.
+
+output of the task :
+<img width="866" height="482" alt="Screenshot 2026-03-23 161307" src="https://github.com/user-attachments/assets/053dd4fe-cf14-413e-b62b-c31fed05f545" />
