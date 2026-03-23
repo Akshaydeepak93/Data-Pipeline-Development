@@ -10,6 +10,8 @@ Intern ID : CTIS6565
 
 Duration : 4 weeks 
 
+mentor : Neela Santosh
+
 descprition of the task :
 
 This project demonstrates a simple yet effective data preprocessing pipeline using Python libraries such as Pandas and Scikit-learn. The primary objective of this pipeline is to clean and transform raw data into a structured format that is suitable for machine learning models.
